@@ -2,8 +2,8 @@ var msg = document.getElementById('msg')
 var bonjuour = document.getElementById('bonjour')
 var img = document.getElementById('imagem')
 var data = new Date()
-var hora = data.getHours()
-//var hora = 1
+//var hora = data.getHours()
+var hora = 19
  
 var minuto = data.getMinutes()
 
